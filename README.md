@@ -10,6 +10,8 @@ https://github.com/bradymholt/aspnet-core-vuejs-template
 https://medium.com/@lugrugzo/asp-net-core-2-0-webapi-jwt-authentication-with-identity-mysql-3698eeba6ff8
 
 To Run  
-Clone the repo  
+git clone https://github.com/taherchhabra/aspnet-core-spa-vuejs-jwt-auth.git  
+cd aspnet-core-spa-vuejs-jwt-auth  
 npm install  
+export ASPNETCORE_ENVIRONMENT="Development"  
 dotnet run  
